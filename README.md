@@ -32,3 +32,7 @@ Explore each topic folder for detailed notes and exercises.
 Feel free to contribute by adding new notes, updating information, or correcting errors. Just fork the repository, make your changes, and submit a pull request.
 
 That's all, enjoy and wish you goodluck!
+
+## Biblography:
+- Kognity
+- Oxford IBDP Physics (2014 Edition)
