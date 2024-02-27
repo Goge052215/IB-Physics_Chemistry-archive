@@ -33,6 +33,6 @@ Feel free to contribute by adding new notes, updating information, or correcting
 
 That's all, enjoy and wish you goodluck!
 
-## Biblography:
-- Kognity
+## Biblography (Images included):
+- Kognity: IBDP Physics & IBDP Chemistry course
 - Oxford IBDP Physics (2014 Edition)
