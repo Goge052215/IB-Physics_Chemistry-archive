@@ -16,7 +16,7 @@ Assume there are $N$ gas particles, each of which has an average kinetic energy 
 
 $U = N × \frac{3}{2}k_B T$
 
-Using $R = k_B × N_A$ where Ris the ideal gas constant and $N_A$ is the Avogadro’s number:
+Using $R = k_B × N_A$ where $R$ is the ideal gas constant and $N_A$ is the Avogadro’s number:
 
 $U = \frac{3}{2} × N ×\frac{R}{N_A} T$
 
