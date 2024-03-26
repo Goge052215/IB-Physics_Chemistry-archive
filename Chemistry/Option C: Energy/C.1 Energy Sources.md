@@ -1,18 +1,16 @@
-# C.1 Energy Sources
-
 ## Energy Density and Specific Energy
 
 ### Energy Density
 
 Energy density is the amount of energy that can be released from an energy source in a given system or region of space per unit volume.
 
-Energy density $= \frac{E}{V}$, units: $\text{J m}^{-3}$ or $\text{kJ m}^{-3}$
+Energy density $\displaystyle = \frac{E}{V}$, units: $\text{J m}^{-3}$ or $\text{kJ m}^{-3}$
 
 ### Specific Energy
 
 Specific energy is the amount of energy that can be released from an energy source per unit of mass.
 
-Specific energy $= \frac{E}{m}$, units: $\text{J kg}^{-1}$ or $\text{kJ kg}^{-1}$
+Specific energy $= \displaystyle \frac{E}{m}$, units: $\text{J kg}^{-1}$ or $\text{kJ kg}^{-1}$
 
 ## Renewable Energy Source
 
