@@ -1,5 +1,3 @@
-# B.2 Thermodynamics
-
 ## 1. Internal Energy
 
 Internal energy is the sum of the random kinetic energy of the molecules and their total potential energy.
@@ -8,27 +6,27 @@ Hence, for an ideal gas, the internal energy is just the total kinetic energy of
 
 We know that the average kinetic energy ($\overline{E_k}$) of a gas molecule is proportional to the absolute temperature of the gas ($T$) only and is given by:
 
-$\overline{E_k} = \frac{3}{2}k_B T$
+$\displaystyle \overline{E_k} = \frac{3}{2}k_B T$
 
 where $k_B$ is the Boltzmann constant.
 
 Assume there are $N$ gas particles, each of which has an average kinetic energy of $\frac{3}{2}k_B T$, the total internal energy $U$ will be:
 
-$U = N × \frac{3}{2}k_B T$
+$\displaystyle U = N × \frac{3}{2}k_B T$
 
 Using $R = k_B × N_A$ where $R$ is the ideal gas constant and $N_A$ is the Avogadro’s number:
 
-$U = \frac{3}{2} × N ×\frac{R}{N_A} T$
+$\displaystyle U = \frac{3}{2} × N ×\frac{R}{N_A} T$
 
-because $n = \frac{N}{N_A}$,
+because $\displaystyle n = \frac{N}{N_A}$,
 
-$U = \frac{3}{2} nRT$
+$\displaystyle U = \frac{3}{2} nRT$
 
 ### Worked Example
 
 Calculate the internal energy in $1 \text{ mol}$ of a monatomic gas at $273 \text{ K}$.
 
-$U = \frac{3}{2} nRT = \frac{3}{2} × 1 × 8.31 * 273 = 3400 \text{ J}$
+$\displaystyle U = \frac{3}{2} nRT = \frac{3}{2} × 1 × 8.31 × 273 = 3400 \text{ J}$
 
 ## 2. Work done on/by a gas
 
@@ -60,25 +58,25 @@ $Q = ΔU + W$
 
 **Q1:** In a thermodynamic process, $75 \text{ J}$ of work is done on an ideal gas when it is compressed. If its internal energy decreases by $14 \text{ J}$, how much thermal energy is removed from a gas?
 
-$W = -75 \text{ J}$\
+$W = -75 \text{ J}$
 $ΔU = -14 \text{ J}$
 
 **Q2:** An ideal gas of volume $0.020 \text{m}^3$ expands to a volume $0.025 \text{m}^3$ at a constant pressure of $1.1 × 10^5 \text{ Pa}$ by applying a thermal energy of $9.0 × 10^3 \text{ J}$. What is the change in the internal energy of the gas?
 
-$W = pΔV = -550 \text{ J}$\
-$ΔU = 9000 \text{ J}$\
+$W = pΔV = -550 \text{ J}$
+$ΔU = 9000 \text{ J}$
 $Q = ΔU + W = 9000 - 550 = 8450 \text{ J}$
 
 ### Isothermal & Isovolumetric Process
 
 During an isothermal process, the temperature remains constant. This means that internal energy remains constant.
 
-$ΔU = 0 \text{ J}$\
+$ΔU = 0 \text{ J}$
 $Q = W$
 
 During an isovolumetric process, volume remains constant. This means that no work is done on or by the gas.
 
-$W = 0 \text{ J}$\
+$W = 0 \text{ J}$
 $Q = ΔU$
 
 ### Isobaric & Adiabatic Process
@@ -107,7 +105,7 @@ where $T$ is the temperature measured in Kelvin.
 
 Boyle's Law explains that the pressure of a fixed mass of gas is inversely proportional to its volume, at a fixed temperature, and the curves, called isotherms, show this relationship:
 
-$p ∝ \frac{1}{V}$
+$\displaystyle p ∝ \frac{1}{V}$
 
 This means that:
 
@@ -115,7 +113,7 @@ This means that:
 
 We can visualize the four processes in the figure below:
 
-<image src="https://kognity-prod.imgix.net/media/edusys_2/content_uploads/14.2.3.2%20A%20pV%20diagram%20representing%20four%20different%20processes.88cfabd960b994531236.png?w=1200&auto=compress" width = "600" height = "auto">
+<img src="https://kognity-prod.imgix.net/media/edusys_2/content_uploads/14.2.3.2%20A%20pV%20diagram%20representing%20four%20different%20processes.88cfabd960b994531236.png?w=1200&auto=compress" width="600" height="auto">
 
 (Source: Kognity)
 
@@ -136,14 +134,14 @@ What is the work done by a gas changing from state A to state B, as indicated in
 
 (Source: Kognity)
 
-$Q = ΔU + W$\
+$Q = ΔU + W$
 $W = ΔU - Q = 3 × 10^5 × 6 × 10^{-6} + \frac{1}{2} × 3 × 10^5 × 6 × 10^{-6} = 1.8 \text{ J} + 0.9 \text{ J} = 2.7\text{ J}$
 
-## 5. Entropy & 2^nd Law of Thermodynamics
+## 5. Entropy & 2nd Law of Thermodynamics
 
 Entropy ($S$) is a measure of the amount of disorder in a system.
 
-We can define the change of entropy ($ΔS$) which occurs when heat ($ΔQ$) is transferred to or from a system at constant temperature ($T$, measured in Kelvin) as:
+We can define the change in entropy ($ΔS$) which occurs when heat ($ΔQ$) is transferred to or from a system at constant temperature ($T$, measured in Kelvin) as:
 
 $ΔS = \frac{ΔQ}{T}$
 
@@ -181,7 +179,7 @@ In a cyclic process, it is impossible to completely convert heat into work.
 
 What is the change in entropy when a $2.0 \text{ kg}$ block of ice melts slowly at $0.0° \text{C}$? (The specific latent heat of fusion of ice is $330 \text{ kJkg}^{-1}$)
 
-$ΔS = \frac{ΔQ}{T} = \frac{mL}{T} = \frac{2 × 330}{273} = 2.4 \text{ kJK}^{-1}$
+$ΔS = \frac{ΔQ}{T} = \frac{mL}{T} = \frac{2 × 330}{273} = 2.4 \text{ kJ K}^{-1}$
 
 ## 6. Thermodynamic Cycles
 
@@ -193,7 +191,7 @@ The main objective of a heat engine is to absorb thermal energy and cause gas to
 
 In general, the efficiency of any process is given by the equation in the Physics Data Booklet:
 
-$η = \frac{\text{useful workdone}}{\text{total output}}$
+$\displaystyle η = \frac{\text{useful workdone}}{\text{total output}}$
 
 **Key point:** The work done by a system in a thermodynamic cycle is equal to the area enclosed by the cycle on a $pV$ diagram.
 
@@ -222,31 +220,31 @@ From $2$ to $3$ or $4$ to $1$ there is no thermal energy exchanged with the surr
 
 $ΔS = ΔS_{12} + ΔS_{34}$
 
-$ΔS = \frac{ΔQ_{12}}{T_{\text{Hot}}} - \frac{ΔQ_{34}}{T_{\text{Cold}}}$
+$\displaystyle ΔS = \frac{ΔQ_{12}}{T_{\text{Hot}}} - \frac{ΔQ_{34}}{T_{\text{Cold}}}$
 
 Because the reaction returns to the initial state,
 
 $ΔS = 0$
 
-$\frac{ΔQ_{34}}{T_{\text{Cold}}} = \frac{ΔQ_{12}}{T_{\text{Hot}}}$
+$\displaystyle \frac{ΔQ_{34}}{T_{\text{Cold}}} = \frac{ΔQ_{12}}{T_{\text{Hot}}}$
 
-$\because η = \frac{\text{useful workdone}}{\text{total output}}$
+$\displaystyle \because η = \frac{\text{useful workdone}}{\text{total output}}$
 
-$\therefore η = \frac{Q_{12} - Q_{34}}{Q_{12}} = 1 - \frac{Q_{34}}{Q_{12}}$
+$\displaystyle \therefore η = \frac{Q_{12} - Q_{34}}{Q_{12}} = 1 - \frac{Q_{34}}{Q_{12}}$
 
-$\because \frac{Q_{12}}{Q_{34}} = \frac{T_{\text{Hot}}}{T_{\text{Cold}}}$
+$\displaystyle \because \frac{Q_{12}}{Q_{34}} = \frac{T_{\text{Hot}}}{T_{\text{Cold}}}$
 
-$\therefore η_{\text{Carnot}} = 1 - \frac{T_{\text{Cold}}}{T_{\text{Hot}}}$
+$\displaystyle \therefore η_{\text{Carnot}} = 1 - \frac{T_{\text{Cold}}}{T_{\text{Hot}}}$
 
 ### Example Question - Thermodynamic Cycles
 
 **Q1:** What is the efficiency of a Carnot engine operating between reservoirs at $45°\text{C}$ and $345°\text{C}$?
 
-$η_{\text{Carnot}} = 1 - \frac{T_{\text{Cold}}}{T_{\text{Hot}}} = 1 - \frac{45 + 273}{345 + 273} = 0.485$
+$\displaystyle η_{\text{Carnot}} = 1 - \frac{T_{\text{Cold}}}{T_{\text{Hot}}} = 1 - \frac{45 + 273}{345 + 273} = 0.485$
 
 **Q2:** What is the maximum efficiency for a heat engine operating between reservoirs at $320\text{ K}$ and $390\text{ K}$?
 
-$η = 1 - \frac{T_{\text{Cold}}}{T_{\text{Hot}}} = 1 - \frac{320}{390} = 0.18$
+$\displaystyle η = 1 - \frac{T_{\text{Cold}}}{T_{\text{Hot}}} = 1 - \frac{320}{390} = 0.18$
 
 **Q3:** What is the net work done on gas during one cycle of the thermodynamic process illustrated in the following $pV$ diagram? Give your answer in MJ.
 
@@ -256,17 +254,17 @@ $W = (7-2) × \frac{1}{2} × (7-3) × 10^5 = 1 \text{ MJ}$
 
 **Q4:** What is the efficiency of a Carnot engine operating with a cold reservoir at $0.0°\text{C}$ and a hot reservoir at $110°\text{C}$?
 
-$η = 1 - \frac{T_{\text{Cold}}}{T_{\text{Hot}}} = 1 - \frac{273}{883} = 0.29$
+$\displaystyle η = 1 - \frac{T_{\text{Cold}}}{T_{\text{Hot}}} = 1 - \frac{273}{883} = 0.29$
 
 **Q5:** A heat engine operates the Carnot cycle with a hot reservoir at $90°\text{C}$ and a cold reservoir at $25°\text{C}$. During a cycle, it absorbs $940 \text{J}$ of energy from the hot reservoir and returns $560 \text{J}$ to the cold reservoir. What is the change in entropy during one complete cycle?
 
-$ΔS = \frac{940}{363} - \frac{560}{298} = 0.71 \text{JK}^{-1}$
+$\displaystyle ΔS = \frac{940}{363} - \frac{560}{298} = 0.71 \text{JK}^{-1}$
 
 ## Key Formulas
 
 ### Internal Energy
 
-$U = \frac{3}{2} nRT$
+$\displaystyle U = \frac{3}{2} nRT$
 
 ### Work done
 
@@ -278,17 +276,17 @@ $Q = ΔU + W$
 
 $pV^{\frac{5}{3}} = \text{Constant}$
 
-$p_1V_1^{\frac{5}{3}} = p_2V_2^{\frac{5}{3}}$\
+$p_1V_1^{\frac{5}{3}} = p_2V_2^{\frac{5}{3}}$
 $T_1V_1^{\frac{2}{3}} = T_2V_2^{\frac{2}{3}}$
 
 ### Entropy
 
-$ΔS = \frac{ΔQ}{T}$
+$\displaystyle ΔS = \frac{ΔQ}{T}$
 
 ### Carnot Efficiency
 
-$ΔS = \frac{ΔQ_{12}}{T_{\text{Hot}}} - \frac{ΔQ_{34}}{T_{\text{Cold}}}$
+$\displaystyle ΔS = \frac{ΔQ_{12}}{T_{\text{Hot}}} - \frac{ΔQ_{34}}{T_{\text{Cold}}}$
 
-$η = \frac{\text{useful workdone}}{\text{total output}}$
+$\displaystyle η = \frac{\text{useful workdone}}{\text{total output}}$
 
-$η_{\text{Carnot}} = 1 - \frac{T_{\text{Cold}}}{T_{\text{Hot}}}$
+$\displaystyle η_{\text{Carnot}} = 1 - \frac{T_{\text{Cold}}}{T_{\text{Hot}}}$
