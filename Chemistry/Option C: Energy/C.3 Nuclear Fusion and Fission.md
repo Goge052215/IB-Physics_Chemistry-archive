@@ -1,5 +1,3 @@
-# C.3 Nuclear Fusion and Fission
-
 Nuclear reactions involve changes to the nucleus itself.
 
 Particles in the nucleus are held together by the binding energy.
@@ -33,6 +31,8 @@ The process of breaking larger atomic nuclei into smaller nuclei by reacting wit
 
 Nuclear fission of Uranium-235:
 
+$^{235}_{92}\text{U} + ^1_0n → \space ^{141}_{56}\text{Ba} + ^{92}_{36}\text{Kr} + 3 ^1_0n$
+
 <img src="https://chem.libretexts.org/@api/deki/files/63496/CNX_Chem_21_04_Fission1.jpg?revision=2&size=bestfit&width=785&height=347" height="300" width="auto">
 
 (Source: ChemLibreText)
@@ -41,7 +41,7 @@ The image above illustrates a slow neutron hitting a fissionable U-235 nucleus,
 
 Chain Reaction: occurs when the output of one nuclear reaction causes more nuclear reactions to occur.
 
-*Note: This process goes on continually until the entire nuclei in the sample above undergo fission*
+*Note: This process goes on continually until the entire $^{235}_{92}\text{U}$ nuclei in the sample above undergo fission*
 
 ### Controlled & Uncontrolled Fission
 
@@ -83,13 +83,13 @@ Source `HTML`:
 
 The rate of decay is **proportional to** the number of nuclei present that have not yet decayed:
 
-$\frac{\Delta N}{\Delta t} = -\lambda N$
+$\displaystyle \frac{\Delta N}{\Delta t} = -\lambda N$
 
 $\lambda$ is the decay constant
 
 From this law, we know that the number of radioactive nuclei decreases exponentially; therefore, we can rewrite the equation into:
 
-$\ln{\frac{[A]_t}{[A]_0}} = -\lambda t$
+$\displaystyle \ln{\frac{[A]_t}{[A]_0}} = -\lambda t$
 
 where $[A]_0$ is the initial concentration, $[A]_t$ is the concentration at the time $t$
 ### Half-life equation
@@ -98,8 +98,8 @@ Half-life means the time taken for a material to decay half of its substance, wh
 
 Then we further derive the formula:
 
-$\ln{\frac{\frac{1}{2}}{1}} = -\ln{2} = -\lambda t_{\frac{1}{2}}$\
-$t_{\frac{1}{2}} = \frac{\ln{2}}{\lambda}$
+$\displaystyle \ln{\frac{\frac{1}{2}}{1}} = -\ln{2} = -\lambda t_{\frac{1}{2}}$
+$\displaystyle t_{\frac{1}{2}} = \frac{\ln{2}}{\lambda}$
 
 ## Nuclear safety
 
