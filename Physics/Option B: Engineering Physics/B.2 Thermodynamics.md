@@ -1,3 +1,5 @@
+# B.2 Thermodynamics
+
 ## 1. Internal Energy
 
 Internal energy is the sum of the random kinetic energy of the molecules and their total potential energy.
