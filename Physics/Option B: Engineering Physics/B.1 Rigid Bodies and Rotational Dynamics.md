@@ -1,3 +1,5 @@
+# B.1 Rigid Bodies and Rotational Dynamics
+
 ## 1. Moment of Inertia
 
 The moment of inertia ($I$) of a body is the rotational equivalent of the role played by mass in linear dynamics. Similarly to the inertial mass of an object being a measure of its opposition to a change in its motion, the moment of inertia of an object is its resistance to a change in its rotational motion.
