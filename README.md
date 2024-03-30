@@ -52,7 +52,9 @@ Feel free to contribute by adding new notes, updating information, or correcting
 
 That's all, enjoy and wish you good luck!
 
-## Bibliography (Images included):
-- Kognity: IBDP Physics & IBDP Chemistry course
+## Bibliography (Images & SIMS included):
+- Kognity: IBDP Physics & IBDP Chemistry course (IBDP FE2016)
+- Geeks For Geeks
+- [PhET Simulation](https://phet.colorado.edu/)
 - Oxford IBDP Physics (2014 Edition)
 - Oxford IBDP Chemistry (2014 Edition)
