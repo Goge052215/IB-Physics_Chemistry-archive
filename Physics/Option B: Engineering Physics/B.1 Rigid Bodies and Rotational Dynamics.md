@@ -214,6 +214,7 @@ Two more useful rotational analogies are given in the table below:
 ### Worked example
 
 A horizontal, rigid beam of length $2.3 \text{ m}$ and mass $8.3 \text{ kg}$ is fixed to a wall at one end, as illustrated in the figure below. A cable is attached to the other end and also fixed to the wall, making an angle of 26° to the rod. A mass of $43 \text{ kg}$ is placed on the beam, $1.9 \text{ m}$ from the wall. What is the tension in the cable?
+
 <img src="https://kognity-prod.imgix.net/media/edusys_2/content_uploads/14.1.3.2-Beam-fixed-to-a-wall.-A-cable-is-attached-to-the-other-end-and-a-mass-suspended-from-the-beam.914e02ca6fa623612db0.png?w=900&auto=compress" width="500" height="400">
 
 ### Solution
