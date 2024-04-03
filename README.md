@@ -42,7 +42,7 @@ Similarly, the Chemistry notes are organized into the main topics of the IB Chem
 9. Redox Processes
 10. Organic Chemistry
 11. Measurement and Data Processing
-12. Option Topics (e.g., Materials, Biochemistry, Energy, Medicinal Chemistry)
+12. Option Topics
 
 Each topic folder contains comprehensive notes, example problems, and practice questions to support both students and teachers.
 
